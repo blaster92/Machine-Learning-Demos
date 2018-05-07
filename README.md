@@ -18,4 +18,4 @@ You can find the Python Notebooks exported as HTML files, which are more portabl
 We want to thank you our teacher, <a href="https://github.com/michiard" target="_blank">Michiardi Pietro</a>, who has realized the baseline for the notebooks and has guided us during their realization, teaching us all the techniques presented here.
 
 ## Credits
-<a href="https://github.com/MrAngius" target="_blank">ANGIUS Marco</a> and <a href="https://github.com/gavalle94" target="_blank">AVALLE Giorgio</a> - Ⓒ2018
+<a href="https://github.com/MrAngius" target="_blank">ANGIUS Marco</a> and <a href="https://github.com/gavalle94" target="_blank">AVALLE Giorgio</a> - Ⓒ2017
